@@ -192,9 +192,9 @@ weight = 5
 url = "contact/"
 
 [[languages.en.menu.main]]
-name = "Bigdata"
+name = "k8s"
 weight = 3
-url  = "/bigdata/"
+url  = "/k8s/"
 
 
 
