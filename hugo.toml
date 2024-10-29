@@ -191,6 +191,13 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
+[[languages.en.menu.main]]
+name = "Bigdata"
+weight = 3
+url  = "/bigdata/"
+
+
+
 [languages.pt-br]
 languageName = ":brazil:"
 title = "João Ninguém"
